@@ -1,1 +1,1 @@
-Point & Click text based adventure game about a magical person that needs your help! (Made with Scratch)
+Point & Click text based adventure game about a magical person who needs your help! (Made with Scratch)
